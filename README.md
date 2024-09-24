@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yash120902)](https://git.io/streak-stats)
 <!--
 **Yash120902/Yash120902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
